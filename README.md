@@ -25,10 +25,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🖇️ [Links](#links)
-7. 📦 [Assets](#assets)
-8. 🚀 [More](#more)
+
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -129,80 +126,7 @@ obtain these credentials by signing up on
 the [Clerk](https://clerk.com/), [Stripe](https://stripe.com/in), [NeonDB](https://neon.tech/), [Google Maps](https://console.cloud.google.com/)
 and [geoapify](https://www.geoapify.com/) websites respectively.
 
-**Running the Project**
 
-```bash
-npx expo start
-```
-
-Download the [Expo Go](https://expo.dev/go) app and Scan the QR code on your respective device to view the project.
-
-
-## <a name="links">🔗 Links</a>
-
-You can find important links mentioned in the YouTube video below:
-
-- <a href="https://www.nativewind.dev/quick-starts/expo" target="_blank">Expo NativeWind Setup</a>
-- <a href="https://www.nativewind.dev/v4/getting-started/typescript" target="_blank">TypeScript Support for
-  NativeWind</a>
-- <a href="https://docs.expo.dev/guides/using-eslint/" target="_blank">Eslint and Prettier Setup</a>
-- <a href="https://jb.gg/JSMastery" target="_blank">Download FREE WebStorm</a>
-- <a href="https://neon.tech/" target="_blank">Serverless NeonDB</a>
-- <a href="https://go.clerk.com/DtiSBEI" target="_blank">Clerk Auth</a>
-- <a href="https://courses.jsmastery.pro/course/databases" target="_blank">Database Mastery Course</a>
-- <a href="https://clerk.com/docs/quickstarts/expo" target="_blank">Clerk Expo Quickstart</a>
-- <a href="https://clerk.com/docs/custom-flows/oauth-connections" target="_blank">Clerk Expo OAuth</a>
-- <a href="https://www.geoapify.com/" target="_blank">Geoapify Map</a>
-- <a href="https://docs.stripe.com/payments/accept-a-payment?platform=react-native&ui=payment-sheet" target="_blank">
-  Stripe React Native SDK</a>
-- <a href="https://docs.stripe.com/payments/accept-a-payment-deferred" target="_blank">Stripe</a>
-
-
-#
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
 
 Join our community of developers creating universal apps.
 

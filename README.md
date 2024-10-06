@@ -24,7 +24,7 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
+4. 👨🏻‍💻 [Quick Start](#quick-start)
 
 
 
@@ -81,7 +81,7 @@ skills in a unique manner that creates a lasting impact.
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">👨🏻‍💻 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 

@@ -1,8 +1,8 @@
-# Welcome to my Full-Stack Uber Clone app 👋
+# Welcome to my Uber Clone app 👋
 
 <div align="center">
   <br />
-      <a href="https://github.com/ZachCortez/uber-clone" target="_blank">
+    <a href="https://youtu.be/kmy_YNhl0mw" target="_blank">
       <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
     </a>
   <br />

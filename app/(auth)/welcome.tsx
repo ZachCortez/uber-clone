@@ -27,7 +27,7 @@ const Onboarding = () => {
         }
         onIndexChanged={(index) => setActiveIndex(index)}
       >
-        [{}]
+        {}
       </Swiper>
     </SafeAreaView>
   );

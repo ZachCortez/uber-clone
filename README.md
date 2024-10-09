@@ -2,7 +2,9 @@
 
 <div align="center">
   <br />
+      <a href="https://github.com/ZachCortez/uber-clone" target="_blank">
       <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
+    </a>
   <br />
 
   <div>

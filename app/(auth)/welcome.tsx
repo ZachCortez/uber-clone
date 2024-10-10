@@ -4,6 +4,7 @@ import { router } from "expo-router";
 import Swiper from "react-native-swiper";
 import React, { useRef, useState } from "react";
 import { onboarding } from "@/constants";
+import CustomButton from "@/components/CustomButton";
 
 const Onboarding = () => {
   const swiperRef = useRef<Swiper>(null);
@@ -48,6 +49,8 @@ const Onboarding = () => {
           </View>
         ))}
       </Swiper>
+
+      <CustomButton title="Next" className="w-11/12 mt-10" />
     </SafeAreaView>
   );
 };

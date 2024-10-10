@@ -1,4 +1,4 @@
-# Welcome to my Uber Clone app 👋
+# Welcome to my Full-Stack Uber Clone app 👋
 
 <div align="center">
   <br />

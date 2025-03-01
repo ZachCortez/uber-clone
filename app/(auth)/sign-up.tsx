@@ -135,9 +135,10 @@ const SignUp = () => {
           //   setVerification({ ...verification, state: "default" })
           // }
           onModalHide={() => {
-            if (verification.state === "success") {
-              setShowSuccessModal(true);
+            if (verification.state !== "success") {
+              return;
             }
+            setShowSuccessModal(true);
           }}
         >
           <View className="bg-white px-7 py-9 rounded-2xl min-h-[300px]">
